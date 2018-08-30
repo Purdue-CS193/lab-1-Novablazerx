@@ -17,6 +17,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- I like that it helps with understanding the computer better 
+- I like that it is fun and relaxed compared to a regular class.
 
 1. Numbered
 2. List
