@@ -1,5 +1,8 @@
 ## Rohan's first CS193 Lab
 
+- I like that it helps with understanding the computer better 
+- I like that it is fun and relaxed compared to a regular class.
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -17,8 +20,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-- I like that it helps with understanding the computer better 
-- I like that it is fun and relaxed compared to a regular class.
+
 
 1. Numbered
 2. List
